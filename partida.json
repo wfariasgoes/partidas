@@ -3,102 +3,102 @@
         {
             "cd_partida": "1",
             "logoMandante": "Cruzeiro",
-            "logoVisitante": "Grêmio",
-            "mandante": "thumb_cruzeiro.png",
+            "logoVisitante": "GrÃªmio",
+            "mandante": "https://www.serebii.net/pokemongo/pokemon/001.png",
             "numRodada": "1",
             "placarMandante": "0",
             "placarVisitante": "1",
-            "visitante": "thumb_gremio.png"
+            "visitante": "https://www.serebii.net/pokemongo/pokemon/002.png"
         },
         {
             "cd_partida": "2",
-            "logoMandante": "EC Vitória",
+            "logoMandante": "EC VitÃ³ria",
             "logoVisitante": "Flamengo",
-            "mandante": "thumb_vitoria.png",
+            "mandante": "https://www.serebii.net/pokemongo/pokemon/002.png",
             "numRodada": "1",
             "placarMandante": "2",
             "placarVisitante": "2",
-            "visitante": "thumb_flamengo.png"
+            "visitante": "https://www.serebii.net/pokemongo/pokemon/002.png"
         },
         {
             "cd_partida": "3",
             "logoMandante": "Santos",
-            "logoVisitante": "Ceará SC",
-            "mandante": "thumb_santos.png",
+            "logoVisitante": "CearÃ¡ SC",
+            "mandante": "https://www.serebii.net/pokemongo/pokemon/002.png",
             "numRodada": "1",
             "placarMandante": "2",
             "placarVisitante": "0",
-            "visitante": "thumb_ceara.png"
+            "visitante": "https://www.serebii.net/pokemongo/pokemon/002.png"
         },
         {
             "cd_partida": "4",
-            "logoMandante": "América-MG",
+            "logoMandante": "AmÃ©rica-MG",
             "logoVisitante": "Sport Recife",
-            "mandante": "thumb_america-mg.png",
+            "mandante": "https://www.serebii.net/pokemongo/pokemon/002.png",
             "numRodada": "1",
             "placarMandante": "3",
             "placarVisitante": "0",
-            "visitante": "thumb_sport.png"
+            "visitante": "https://www.serebii.net/pokemongo/pokemon/002.png"
         },
         {
             "cd_partida": "5",
             "logoMandante": "Vasco da Gama",
-            "logoVisitante": "Atlético",
-            "mandante": "thumb_vasco.png",
+            "logoVisitante": "AtlÃ©tico",
+            "mandante": "https://www.serebii.net/pokemongo/pokemon/002.png",
             "numRodada": "1",
             "placarMandante": "2",
             "placarVisitante": "1",
-            "visitante": "thumb_atletico-mg.png"
+            "visitante": "https://www.serebii.net/pokemongo/pokemon/002.png"
         },
         {
             "cd_partida": "6",
             "logoMandante": "Internacional",
             "logoVisitante": "Bahia",
-            "mandante": "thumb_internacional.png",
+            "mandante": "https://www.serebii.net/pokemongo/pokemon/002.png",
             "numRodada": "1",
             "placarMandante": "2",
             "placarVisitante": "0",
-            "visitante": "thumb_bahia.png"
+            "visitante": "https://www.serebii.net/pokemongo/pokemon/002.png"
         },
         {
             "cd_partida": "7",
             "logoMandante": "Corinthians",
             "logoVisitante": "Fluminense",
-            "mandante": "thumb_corinthians.png",
+            "mandante": "https://www.serebii.net/pokemongo/pokemon/002.png",
             "numRodada": "1",
             "placarMandante": "2",
             "placarVisitante": "1",
-            "visitante": "thumb_fluminense.png"
+            "visitante": "https://www.serebii.net/pokemongo/pokemon/002.png"
         },
         {
             "cd_partida": "8",
-            "logoMandante": "Atlético-PR",
+            "logoMandante": "AtlÃ©tico-PR",
             "logoVisitante": "Chapecoense",
-            "mandante": "thumb_atletico-pr.png",
+            "mandante": "https://www.serebii.net/pokemongo/pokemon/002.png",
             "numRodada": "1",
             "placarMandante": "5",
             "placarVisitante": "1",
-            "visitante": "thumb_chapecoense.png"
+            "visitante": "https://www.serebii.net/pokemongo/pokemon/002.png"
         },
         {
             "cd_partida": "9",
-            "logoMandante": "São Paulo",
-            "logoVisitante": "Paraná",
-            "mandante": "thumb_sao_paulo.png",
+            "logoMandante": "SÃ£o Paulo",
+            "logoVisitante": "ParanÃ¡",
+            "mandante": "https://www.serebii.net/pokemongo/pokemon/002.png",
             "numRodada": "1",
             "placarMandante": "1",
             "placarVisitante": "0",
-            "visitante": "thumb_parana.png"
+            "visitante": "https://www.serebii.net/pokemongo/pokemon/002.png"
         },
         {
             "cd_partida": "10",
             "logoMandante": "Botafogo",
             "logoVisitante": "Palmeiras",
-            "mandante": "thumb_botafogo-rj.png",
+            "mandante": "https://www.serebii.net/pokemongo/pokemon/002.png",
             "numRodada": "1",
             "placarMandante": "1",
             "placarVisitante": "1",
-            "visitante": "thumb_palmeiras.png"
+            "visitante": "https://www.serebii.net/pokemongo/pokemon/002.png"
         }
     ]
 }
